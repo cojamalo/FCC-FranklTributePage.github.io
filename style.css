@@ -21,7 +21,7 @@ blockquote {
   margin-bottom: 0px;
   
   
-  background: url(https://raw.githubusercontent.com/cojamalo/FCC-TributePage/5eda9448763e93a0e9eeadf90a8738df5e643956/images/VF-jumbo.jpg) no-repeat ; 
+  background: url(./images/VF-jumbo.jpg) no-repeat ; 
   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
