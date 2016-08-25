@@ -28,6 +28,7 @@ blockquote {
   -o-background-size: cover;
   background-size: contain;
   position: relative;
+  max-width: 1354px;
 }
 
 .right-justify {
