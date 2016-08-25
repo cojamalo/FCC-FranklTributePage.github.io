@@ -20,7 +20,7 @@ blockquote {
   padding-bottom: 0px;
   margin-bottom: 0px;
   
-  
+  max-width: 1354px;
   background: url(./images/VF-jumbo.jpg) no-repeat; 
   background-attachment: fixed;
   -webkit-background-size: cover;
@@ -39,6 +39,8 @@ blockquote {
   -webkit-text-stroke-width: .25px;
   -webkit-text-stroke-color: #000000;
   text-shadow: 1px 1px 5px #000;
+  white-space: nowrap;
+  overflow: visible;
 }
 
 .smaller {
